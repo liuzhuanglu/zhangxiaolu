@@ -3,3 +3,5 @@ git add .
 git commit -m "info message"
 git push origin master
 
+git pull --rebase origin master		本地不存在README.md 用此命令合并到本地
+
