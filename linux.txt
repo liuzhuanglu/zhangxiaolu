@@ -1,2 +1,13 @@
+ls
+ls -al
+date
+cal
+bc
+locale
 cat /proc/cpuinfo
+
+sync
+shutdown
+reboot  halt  poweroff
+
 
